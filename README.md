@@ -68,18 +68,23 @@
   <a href="https://fire-tenor-ff4.notion.site/Web-Project-dc7a5f2ed82a4e8e83bd6d6412a3e55a">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
-  <a href="devhyun98@gmail.com">
+  <a href="mailto:devhyun98@gmail.com">
     <img
-      src="https://img.shields.io/badge/devhyun98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="bongtacker@naver.com">
+  <a href="mailto:bongtacker@naver.com">
     <img
-      src="https://img.shields.io/badge/bongtacker@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
   <a href="https://github.com/hyunisnotnull">
     <img
       src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   </a>
+</div>
+</br>
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunisnotnull&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d3230302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/7d192bff-6aab-43b5-ad17-6629dbc6a83a)
