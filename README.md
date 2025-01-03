@@ -43,7 +43,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <a href="https://fire-tenor-ff4.notion.site/Web-Project-dc7a5f2ed82a4e8e83bd6d6412a3e55a" target="_blank"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
 </div>
 
 <div align="center">
@@ -66,7 +65,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://fire-tenor-ff4.notion.site/Web-Project-dc7a5f2ed82a4e8e83bd6d6412a3e55a">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
   <a href="mailto:devhyun98@gmail.com">
     <img
